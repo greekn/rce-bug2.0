@@ -1,0 +1,43 @@
+{	
+	"GZAQ_data" : [
+		{"author":"Greekn-fplythoner"},
+		{"email":"ms016@qq.com-980348599@qq.com"},
+		{"content":"vulnerability record"},
+		{"version":"v2.0"},
+		{"github":"https://github.com/greekn/rce-bug2.0"}
+	],
+	"details_data": [
+		{"漏洞名称":"thinkphp-RCE-2018-12-9"},
+		{"漏洞编号":"X"},
+		{"漏洞类型":"RCE"},
+		{"中间件":"X"},
+		{"默认开放端口":"X"},
+		{"漏洞组件":"thinkphp"},
+		{"漏洞特征":"X"},
+		{"受影响组件版本":"5.0-5.1"},
+		{"漏洞验证脚本网址":"https://github.com/heroanswer/thinkphp_rce_poc"},
+		{"漏洞利用脚本网址":"X"},
+		{"漏洞复现网址":"X"},
+		{"fofa资产搜索关键词":"thinkphp"},
+		{"钟馗之眼搜索关键词":"thinkphp"},
+		{"shodan资产搜索关键词":"thinkphp"},
+		{"补丁网址":"X"},
+		{"大数据资产统计":"X"},
+		{"漏洞创建时间":"2018-12-9"},
+		{"漏洞收集时间":"2018-12-11"}
+	],
+	"trackingnote_data": [
+		{"漏洞追踪笔记":"高危"},
+		{"网络环境new":"外网"},
+		{"攻击向量":"Http"},
+		{"漏洞验证脚本是否公开":"公开"},
+		{"漏洞细节是否公开":"公开"},
+		{"CVss3.0评分":"X"},
+		{"漏洞收集人":"Greekn"},
+		{"漏洞收集人邮箱":"ms016@qq.com"},
+		{"漏洞收集时间":"2018-12-11"}	
+	]	
+}	
+
+
+
